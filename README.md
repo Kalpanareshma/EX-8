@@ -41,12 +41,9 @@ while True:
 
 ## OUTPUT :
 ### CLIENT OUTPUT :
-![EX-08 CLIENT](https://github.com/Kalpanareshma/EX-8/assets/122040453/8b0fce4e-ed80-4290-b891-3aaae5a0ac1e)
+![ex08 client output](https://github.com/Kalpanareshma/EX-8/assets/122040453/2f26f09b-aaa4-47e8-af76-95651b760ea4)
 ### SERVER OUTPUT :
-![EX-08 SERVER](https://github.com/Kalpanareshma/EX-8/assets/122040453/8cffa948-3feb-4bae-a8df-6f715b26c829)
-
-
-
+![ex08 server output](https://github.com/Kalpanareshma/EX-8/assets/122040453/81010722-f2ba-4bdb-9b78-8a2be5e84951)
 
 ## RESULT :
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links was successfully created and executed.
